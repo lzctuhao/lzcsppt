@@ -3,7 +3,4 @@
 - [晨读单词表竞赛](/test/)
 - [转换法](/transformation/)
 
-<div id="beian" style="
-    position: absolute;
-    bottom: 10px;
-"><img src="https://lzc2002.top//medias/icons/beian.png"> <a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44011502001113"><img src="" style="float:left"><span style="cursor: pointer;">粤公网安备 44011502001113号</span></a></div>
+<div id="beian" style="position:absolute;bottom:10px;left:50%;transform:translate(-50%,-0);width:max-content;max-width:90vw;"><img src="https://lzc2002.top//medias/icons/beian.png"> <a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44011502001113"><img src="" style="float:left"><span style="cursor: pointer;">粤公网安备 44011502001113号</span></a></div>
